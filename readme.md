@@ -10,6 +10,10 @@ This project is a robust backend API designed to power **Panen Mania** e-commerc
 
 This project was **built on CommonJS**, therefore it might not compatible with some latest version of package.
 
+## 📖 Documentation
+
+Read the API documentation [here](https://documenter.getpostman.com/view/49071923/2sB3dLUBwf#intro).
+
 ## 🚀 Key Features
 
 - **User Authentication and Authorization:** Secure user registration, login, logout, and token refresh mechanisms using JWTs and Redis.
@@ -157,4 +161,5 @@ The server will start on the port specified in your `.env` file (default: 5000).
 Thank you for checking out this project!
 
 This README was written by [readme.ai](https://readme-generator-phi.vercel.app/).
+
 
