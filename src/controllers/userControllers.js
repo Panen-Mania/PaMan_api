@@ -213,6 +213,7 @@ const userController = {
 					birthday: true,
 					gender: true,
 					register_date: true,
+					avatar_url: true,
 				},
 				relationLoadStrategy: "join",
 			});
